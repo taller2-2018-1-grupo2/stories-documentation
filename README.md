@@ -10,7 +10,7 @@ Repositorio con la documentación de Stories.
   * [Swagger](https://github.com/taller2-2018-1-grupo2/python-server/blob/master/stories_app_server.json)
 * Shared Server:
   * [Manual de administrador: Instalación y configuración](https://github.com/taller2-2018-1-grupo2/shared-server/blob/master/README.md)
-  * Definición de Arquitectura / Diseño de la aplicación
+  * [Definición de Arquitectura / Diseño de la aplicación](https://github.com/taller2-2018-1-grupo2/shared-server/blob/master/docs/arquitectura.md)
   * [Swagger](https://github.com/taller2-2018-1-grupo2/shared-server/blob/master/shared_server_swagger.yaml)
 * Cliente Android:
   * Manual de usuario
