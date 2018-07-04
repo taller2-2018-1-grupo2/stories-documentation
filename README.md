@@ -5,7 +5,7 @@ Repositorio con la documentación de Stories.
 ## Documentación
 
 * Application Server:
-  * [Manual de administrador: Instalación y configuración](https://github.com/taller2-2018-1-grupo2/python-server/blob/master/README.md)
+  * [Manual de administrador: Instalación y configuración](https://github.com/taller2-2018-1-grupo2/python-server/blob/master/docs/administrador.md)
   * [Definición de Arquitectura / Diseño de la aplicación](https://github.com/taller2-2018-1-grupo2/python-server/blob/master/docs/arquitectura.md)
   * [Swagger](https://github.com/taller2-2018-1-grupo2/python-server/blob/master/stories_app_server.json)
 * Shared Server:
@@ -15,6 +15,8 @@ Repositorio con la documentación de Stories.
 * Cliente Android:
   * [Manual de usuario](https://github.com/taller2-2018-1-grupo2/android-app/blob/master/docs/manual_usuario.md)
   * [Definición de Arquitectura / Diseño de la aplicación](https://github.com/taller2-2018-1-grupo2/android-app/blob/master/docs/arquitectura.md)
+* Stories Admin UI
+  * [Manual de Usuario](https://github.com/taller2-2018-1-grupo2/stories-react/blob/master/docs/user_manual.md)
 * [Manual de proyecto](https://docs.google.com/document/d/1z1C9m3dm-Vx6Ms50Mdojlf0MNTuGCCSKU7xNhCq62jc/edit)
 * [Cronograma de tramo final](https://docs.google.com/document/d/1peJ3YoZshuZdq0z-b3xY-hwNcCp8qgRwq5b1Aq6Jd1Q/edit)
 
